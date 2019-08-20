@@ -1,6 +1,6 @@
-# my_info
+# My_Info
 
-A new Flutter project.
+A new Flutter App that shows my information. It is the second app that i created using flutter. 
 
 ## Getting Started
 
