@@ -27,6 +27,12 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_launcher_icons: "^0.7.2"
+
+flutter_icons:
+  android: "launcher_icon" 
+  ios: true
+  image_path: "images/m.jpg"
 
 
 # For information on the generic Dart part of this file, see the
@@ -41,6 +47,28 @@ flutter:
   uses-material-design: true
   assets:
     - images/DSC_0116.JPG
+    - images/apex.jpg
+    - images/csgo.jpg
+    - images/grw.jpg
+    - images/mw.jpg
+    - images/pubg.jpg
+    - images/hp1.jpg
+    - images/hp2.jpg
+    - images/hp3.jpg
+    - images/hp4.jpg
+    - images/hp5.jpg
+    - images/hp6.jpg
+    - images/hp7.jpg
+    - images/hp8.jpg
+    - images/tsd.jpg
+    - images/dwk1.jpg
+    - images/dwk2.jpg
+    - images/dwk3.jpg
+    - images/af1.jpg
+    - images/af2.jpg
+    - images/af3.jpg
+    - images/thg.jpg
+    
 
   # To add assets to your application, add an assets section, like this:
   # assets:
