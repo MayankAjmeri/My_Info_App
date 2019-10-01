@@ -4,7 +4,7 @@ A new Flutter App that shows my information. It is the second app that i created
 
 Home Page
 
-![alt text](https://raw.githubusercontent.com/MayankAjmeri/My_Info_App/tree/master/images/HomePage.png)
+![alt text](https://raw.githubusercontent.com/MayankAjmeri/blob/master/images/HomePage.png)
 
 ## Getting Started
 
