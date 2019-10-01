@@ -2,6 +2,10 @@
 
 A new Flutter App that shows my information. It is the second app that i created using flutter. 
 
+Home Page
+
+![](https://github.com/MayankAjmeri/My_Info_App/blob/master/images/HomePage.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
